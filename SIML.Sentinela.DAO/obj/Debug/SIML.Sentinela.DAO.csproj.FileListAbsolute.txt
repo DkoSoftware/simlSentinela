@@ -1,0 +1,7 @@
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\bin\Debug\SIML.Sentinela.DAO.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\bin\Debug\SIML.Sentinela.DAO.pdb
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\bin\Debug\SIML.Sentinela.ENT.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\bin\Debug\SIML.Sentinela.ENT.pdb
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\obj\Debug\SIML.Sentinela.DAO.csprojResolveAssemblyReference.cache
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\obj\Debug\SIML.Sentinela.DAO.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.DAO\obj\Debug\SIML.Sentinela.DAO.pdb

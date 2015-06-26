@@ -1,0 +1,4 @@
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.ENT\bin\Debug\SIML.Sentinela.ENT.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.ENT\bin\Debug\SIML.Sentinela.ENT.pdb
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.ENT\obj\Debug\SIML.Sentinela.ENT.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela.ENT\obj\Debug\SIML.Sentinela.ENT.pdb

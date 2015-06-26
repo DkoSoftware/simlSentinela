@@ -1,0 +1,228 @@
+﻿Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+Service SIMLSentinela is being removed from the system...
+Service SIMLSentinela was successfully removed from the system.
+Attempt to stop service SIMLSentinela.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+Service SIMLSentinela is being removed from the system...
+Service SIMLSentinela was successfully removed from the system.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+An exception occurred during the uninstallation of the System.Diagnostics.EventLogInstaller installer.
+System.Security.SecurityException: Requested registry access is not allowed.
+An exception occurred while uninstalling. This exception will be ignored and the uninstall will continue. However, the application might not be fully uninstalled after the uninstall is complete.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+Service SIMLSentinela is being removed from the system...
+Service SIMLSentinela was successfully removed from the system.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+Service SIMLSentinela is being removed from the system...
+Service SIMLSentinela was successfully removed from the system.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Creating EventLog source SIMLSentinela in log Application...
+Rolling back assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Restoring event log to previous state for source SIMLSentinela.
+Uninstalling assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Removing EventLog source SIMLSentinela.
+Service SIMLSentinela is being removed from the system...
+Service SIMLSentinela was successfully removed from the system.
+Installing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+Installing service SIMLSentinela...
+Service SIMLSentinela has been successfully installed.
+Creating EventLog source SIMLSentinela in log Application...
+Committing assembly 'C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.InstallLog
+   assemblypath = C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe

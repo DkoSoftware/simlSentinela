@@ -1,0 +1,6 @@
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.exe
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\SIML.Sentinela.pdb
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\Common.Logging.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\bin\Debug\Quartz.dll
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\obj\Debug\SIML.Sentinela.exe
+C:\DKO_IT\Projects\SIMLSentinela\SIML.Sentinela\SIML.Sentinela\obj\Debug\SIML.Sentinela.pdb
